@@ -1,3 +1,6 @@
 pizza.txt
 applejuice.txt
 pizzanew.txt
+applejuice.txt
+pizzanew.txt
+test.html
